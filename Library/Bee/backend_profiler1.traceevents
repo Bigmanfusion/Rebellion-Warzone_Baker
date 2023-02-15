@@ -1,0 +1,587 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1676472065497339, "dur":2360, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472065499708, "dur":145, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1676472065499914, "dur":38, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1676472065499955, "dur":588, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1676472065500624, "dur":1419, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472065502044, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066092824, "dur":328, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093152, "dur":21, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093173, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093178, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093192, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093195, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093207, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093210, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093222, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093224, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093236, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093239, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093251, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093253, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093267, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093270, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093289, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093315, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066093342, "dur":3157, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1676472065500763, "dur":1298, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065502066, "dur":11651, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065513736, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676472065513742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065515885, "dur":738, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676472065516628, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676472065516709, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065516927, "dur":4489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676472065521419, "dur":11539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1676472065532962, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065532973, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1676472065534337, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1676472065534464, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065534474, "dur":3974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1676472065538510, "dur":83013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone.exe" }}
+,{ "pid":12345, "tid":1, "ts":1676472065621529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065621538, "dur":6676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone.exe" }}
+,{ "pid":12345, "tid":1, "ts":1676472065628265, "dur":52890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065681161, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065681173, "dur":4925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065686163, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065686354, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065686362, "dur":3037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065689456, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065689682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065689691, "dur":3052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065692800, "dur":51059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065743865, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065743876, "dur":2987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065746950, "dur":23973, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065770929, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065770970, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065773736, "dur":29206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065802948, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065802960, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065804317, "dur":103612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065907934, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065907944, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065910227, "dur":524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065910755, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472065910765, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472065912816, "dur":146985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472066059805, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676472066059816, "dur":2258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676472066062136, "dur":30692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065500817, "dur":1271, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065502088, "dur":11636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065513737, "dur":44466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1676472065558209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065558518, "dur":1325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1676472065559896, "dur":57395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065617298, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065617340, "dur":1813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065619205, "dur":29396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065648609, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065648707, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065650653, "dur":25237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065675977, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065675992, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065677597, "dur":1766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065679371, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065679384, "dur":5619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065685102, "dur":59372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065744479, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065744490, "dur":15336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065759874, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065760177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065766526, "dur":6903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065773509, "dur":49646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065823163, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065823176, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065824876, "dur":1639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065826520, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065826532, "dur":2812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065829451, "dur":27335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472065856794, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472065856808, "dur":144931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472066001936, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472066002100, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066002110, "dur":2373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676472066004531, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1676472066004674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066005129, "dur":1775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1676472066006988, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1676472066007053, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066007141, "dur":9466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1676472066016661, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1676472066016723, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066016732, "dur":4942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1676472066021732, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":2, "ts":1676472066021791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066021802, "dur":30792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":2, "ts":1676472066052647, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1676472066052712, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066052726, "dur":3169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1676472066055946, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1676472066056159, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676472066056166, "dur":2941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1676472066059160, "dur":33665, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065500805, "dur":1270, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065502075, "dur":11650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065513736, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1676472065513963, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065522559, "dur":2577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1676472065525189, "dur":10842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1676472065536036, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065536049, "dur":1406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1676472065537509, "dur":128740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065666256, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065666266, "dur":91326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065757659, "dur":36183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065793850, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065793862, "dur":5972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065799886, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065800083, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065800095, "dur":1636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065801778, "dur":67289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065869074, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472065869085, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472065870371, "dur":221052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472066091430, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676472066091443, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676472066092784, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":3, "ts":1676472066092787, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065500858, "dur":1239, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065502097, "dur":11631, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065513736, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1676472065513930, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065522256, "dur":15688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1676472065538001, "dur":14467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1676472065552477, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065552490, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1676472065555912, "dur":36952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065592873, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065592983, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065594631, "dur":65762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065660400, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065660582, "dur":9472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065670136, "dur":450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065670591, "dur":214, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065671276, "dur":5088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065676425, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065676656, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065676668, "dur":3922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065680648, "dur":505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065681160, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065681173, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065685461, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065685715, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065685730, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065688234, "dur":500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065688740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065688751, "dur":3386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065692210, "dur":72709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065764939, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065765008, "dur":7640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065772769, "dur":1335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065774109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065774120, "dur":3257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065777435, "dur":27978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065805419, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065805431, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065806887, "dur":32534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065839427, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065839437, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065841337, "dur":26428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065867781, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065867801, "dur":1825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065869680, "dur":448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065870133, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065870143, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065872237, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065872455, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065872466, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065874375, "dur":33162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065907542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065907581, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065909438, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065909672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472065909682, "dur":2252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472065911992, "dur":133595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472066045594, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472066045606, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676472066047517, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1676472066047570, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472066047582, "dur":4608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1676472066052244, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1676472066052296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472066052306, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1676472066054209, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1676472066054256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676472066054263, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1676472066057078, "dur":35742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065500984, "dur":1119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065502103, "dur":11624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065513736, "dur":11057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1676472065524798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065525362, "dur":7023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1676472065532481, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1676472065532687, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065532700, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1676472065534410, "dur":3885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065538300, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065538614, "dur":3384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065542077, "dur":112439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065654521, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065654531, "dur":4241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065658823, "dur":34310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065693138, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065693149, "dur":4953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065698170, "dur":43599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065741774, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065741783, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065743525, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065743721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065743734, "dur":2003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065745786, "dur":32445, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065778236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065778245, "dur":2548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065780850, "dur":26174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065807215, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065807228, "dur":4710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065811994, "dur":45011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065857011, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065857021, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065858783, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065859026, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065859038, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065860295, "dur":50993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065911295, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065911306, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065912968, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065913173, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065913184, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065914818, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065915117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065915128, "dur":1062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065916234, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065916376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065916385, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065918083, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065918295, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065918308, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065919754, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065919980, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065919991, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065921297, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065921484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065921493, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065922709, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065923031, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065923040, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065924328, "dur":4726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065929061, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065929072, "dur":3943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065933068, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065933268, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065933280, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065934798, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065935189, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065935199, "dur":3426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065938726, "dur":988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065939726, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065939834, "dur":4441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065944336, "dur":1762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065946104, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065946117, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065948034, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065948195, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065948204, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065949498, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065949771, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065949780, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065951078, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065951358, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065951368, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065952487, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065952652, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065952662, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065954765, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065955035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065955046, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065956459, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065956663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065956685, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065957855, "dur":717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065958578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065958588, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065960299, "dur":3540, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065963846, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065963859, "dur":3631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065967545, "dur":3129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065970680, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065970691, "dur":3243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065973984, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065974159, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065974170, "dur":1144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065975366, "dur":1631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065977003, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065977016, "dur":2965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065980035, "dur":326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065980365, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065980377, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065982253, "dur":653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065982911, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065982922, "dur":4103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065987092, "dur":2360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065989459, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065989471, "dur":4019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065993568, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065993930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472065993940, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472065996335, "dur":6969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472066003309, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066003319, "dur":8294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676472066011684, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":5, "ts":1676472066011739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066011751, "dur":19704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":5, "ts":1676472066031523, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1676472066031654, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066031671, "dur":1507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1676472066033233, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1676472066033289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066033297, "dur":3144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1676472066036539, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1676472066036597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066036613, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1676472066038567, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1676472066038634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066038643, "dur":4233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1676472066042922, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1676472066043067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066043075, "dur":4427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1676472066047548, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1676472066047597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066047605, "dur":6215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1676472066053872, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1676472066053922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066053930, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1676472066055588, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1676472066055641, "dur":14, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676472066055662, "dur":3599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1676472066059349, "dur":33473, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065501047, "dur":1064, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065502111, "dur":11622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065513737, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1676472065513932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065522337, "dur":3184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1676472065525574, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1676472065525733, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065525743, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1676472065527836, "dur":9219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1676472065537060, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065537072, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1676472065538889, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1676472065539018, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065539291, "dur":18227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1676472065557570, "dur":69323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065626901, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065626914, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065628843, "dur":23216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065652068, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065652081, "dur":1539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065653673, "dur":91743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065745456, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065745468, "dur":12579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065758098, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065758379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065758390, "dur":9430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065767872, "dur":99893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065867782, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065867796, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065869543, "dur":29953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065899502, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065900228, "dur":2888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065903185, "dur":837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065904028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065904037, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065907325, "dur":996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065908326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472065908336, "dur":2246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472065910639, "dur":148475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472066059119, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676472066059130, "dur":1672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676472066060853, "dur":31992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065501110, "dur":1007, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065502117, "dur":11632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065513750, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1676472065513997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065521533, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1676472065523743, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1676472065523966, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065524199, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1676472065525764, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1676472065525894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065526551, "dur":4998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1676472065531611, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1676472065531855, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065531931, "dur":1725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1676472065533710, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1676472065533852, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065533862, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1676472065535517, "dur":45156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065580681, "dur":63, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065580868, "dur":9314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065590236, "dur":29952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065620194, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065620205, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065621775, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065621996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065622006, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065623690, "dur":28955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065652650, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065652659, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065653901, "dur":185861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472065839798, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472065839808, "dur":170151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676472066010011, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1676472066010067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472066010078, "dur":5386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1676472066015526, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1676472066015582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472066015592, "dur":9097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1676472066024764, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1676472066024859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472066024876, "dur":17709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1676472066042635, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1676472066042686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472066042694, "dur":5217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1676472066047958, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level4" }}
+,{ "pid":12345, "tid":7, "ts":1676472066048015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472066048021, "dur":7257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/level4" }}
+,{ "pid":12345, "tid":7, "ts":1676472066055325, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1676472066055378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676472066055386, "dur":2385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1676472066057954, "dur":34889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065501185, "dur":939, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065502124, "dur":11606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065513737, "dur":11251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1676472065524993, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065525314, "dur":7013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1676472065532382, "dur":10710, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1676472065543097, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065543244, "dur":3686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1676472065546991, "dur":29373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065576373, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065576663, "dur":1060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065577776, "dur":65632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065643416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065643427, "dur":1670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065645145, "dur":41187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065686337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065686348, "dur":3210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065689611, "dur":24672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065714290, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065714303, "dur":1126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065715481, "dur":24031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065739520, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065739532, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065741133, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065741294, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065741304, "dur":1197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065742556, "dur":28341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065770905, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065770917, "dur":4385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065775381, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065775599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065775610, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065777801, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065778000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065778011, "dur":2359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065780517, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065780902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065780915, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065783227, "dur":27453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065810690, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065810706, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065812556, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065812772, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065812798, "dur":1312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065814162, "dur":25173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065839344, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065839357, "dur":2127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065841536, "dur":31253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065872802, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065872828, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065874657, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065874844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065874855, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065876110, "dur":530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065876644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065876655, "dur":2221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065878938, "dur":1067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065880011, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065880022, "dur":2374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065882449, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065882710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065882743, "dur":1273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065884071, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065884376, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065884387, "dur":1399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065885835, "dur":566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065886406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065886416, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065888268, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065888424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065888435, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065890086, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065890304, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065890319, "dur":1273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065891647, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065891804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065891815, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065893028, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065893197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065893207, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065894530, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065894700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065894711, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065896431, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065896639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065896650, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065898097, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065898408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065898420, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065899884, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065900028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065900039, "dur":1472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065901561, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065901716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065901726, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065903649, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065903803, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065903814, "dur":2432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065906299, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065906445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065906456, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065908219, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065908383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065908393, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065910371, "dur":80825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472065991203, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472065991216, "dur":10273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472066001544, "dur":464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472066002012, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472066002050, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472066003655, "dur":25085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472066028752, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472066030604, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676472066032952, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1676472066033002, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472066033014, "dur":8829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1676472066041897, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1676472066041971, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472066041980, "dur":4650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1676472066046691, "dur":9334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1676472066056029, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676472066056037, "dur":3164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nikba/Downloads/Rebllion Warzone_Baker/Rebellion Warzone_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1676472066059255, "dur":33564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676472066098811, "dur":4150, "ph":"X", "name": "ProfilerWriteOutput" }
+,
